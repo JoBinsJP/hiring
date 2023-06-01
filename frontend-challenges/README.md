@@ -5,15 +5,14 @@
 To participate in the frontend coding challenge, please ensure that you have the following:
 
 - An active GitHub account. If you don't have one, please create an account to submit your task.
-- Familiarity with Git version control. If you're new to Git, consider taking a Git class on CodeSchool.
 - Once you're ready, create a public repository named `jobins-frontend-challenge` in your GitHub account.
-- Solve the given problem by transforming the "Home" screen into an interactive web page using HTML, CSS, and Vue.js.
+- Solve the given problem by transforming the given screen into an interactive web page using HTML, CSS, and Vue.js.
 - Upload the HTML, CSS, and JavaScript files to your GitHub repository, making multiple commits with proper commit messages.
 - Finally, submit your application along with your profile information and the completed task.
 
 ### Problem Description
 
-Your task is to create an interactive web page based on the provided "Home" screen design using HTML, CSS, and Vue.js. You can access the design file by following the Figma link provided.
+Your task is to create an interactive web page based on the provided screen design using HTML, CSS, and Vue.js. You can access the design file by following the Figma link provided.
 
 ### Judging Criteria
 
