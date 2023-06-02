@@ -1,4 +1,4 @@
-## Frontend - Code to Design (Vue/React)
+## Frontend - Design to Code  (Vue/React)
 
 ### Requirements
 
