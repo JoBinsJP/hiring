@@ -1,4 +1,4 @@
-## Frontend - Code to Design
+## Frontend - Code to Design (Vue/React)
 
 ### Requirements
 
@@ -6,13 +6,13 @@ To participate in the frontend coding challenge, please ensure that you have the
 
 - An active GitHub account. If you don't have one, please create an account to submit your task.
 - Once you're ready, create a public repository named `jobins-frontend-challenge` in your GitHub account.
-- Solve the given problem by transforming the given screen into an interactive web page using HTML, CSS, and Vue.js.
+- Solve the given problem by transforming the given screen into an interactive web page using HTML, CSS, and Vue.js/React.
 - Upload the HTML, CSS, and JavaScript files to your GitHub repository.
 - Finally, submit your application along with your profile information.
 
 ### Problem Description
 
-Your task is to create an interactive web page based on the provided screen design using HTML, CSS, and Vue.js. You can access the design file by following the Figma link: https://www.figma.com/file/fw0TC1Up6nGPFg9532QjEe/JoBins-Task?type=design&node-id=0%3A1&t=1Nkd3cqFJ17Vg7Di-1
+Your task is to create an interactive web page based on the provided screen design using HTML, CSS, and Vue.js/React. You can access the design file by following the Figma link: https://www.figma.com/file/fw0TC1Up6nGPFg9532QjEe/JoBins-Task?type=design&node-id=0%3A1&t=1Nkd3cqFJ17Vg7Di-1
 
 ### Judging Criteria
 
@@ -28,7 +28,7 @@ We will evaluate your assignment based on the following criteria:
 - Knowledge of TailwindCSS framework (if used).
 - Usage of CSS preprocessors (bonus points).
 - Implementation of CSS/JS animations (bonus points).
-- Integration of Vue.js framework.
+- Integration of Vue.js/React framework.
 - Mock API call implementation for the list.
 
 ### Submission
