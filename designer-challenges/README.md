@@ -76,6 +76,8 @@ Set up a folder on Google Drive and change its name to your full name. Include t
 4. Design Portfolio
    * Upload your design portfolio to the Google Docs folder. If your design portfolio is available on platforms like Dribbble, Behance, or any other design portfolio website, include the respective link in the Google Docs.
 
-`please submit your profile information and the application form provided in the submission link`
+Send an email to jobins@careers.jp containing the shared Google folder.
+
+`please submit your profile information and shared Google drive folder link in the submission form`
 
 `We want you to have as much freedom as you need. Don’t hesitate to try out interesting techniques and show your personality in your work. Good luck, and we look forward to seeing your thoughtful and user-centric interface design! _:)`
