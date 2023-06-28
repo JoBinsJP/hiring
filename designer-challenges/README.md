@@ -1,58 +1,81 @@
-**Design Concept: Smart Match Recommendations**
+# UI/UX Design Challenge
 
-**Feature Description:**
-The Smart Match Recommendations feature aims to enhance the user experience of the agent collaboration system by providing intelligent and personalized job recommendations for both job giver companies and recruitment agencies. By leveraging advanced algorithms and user preferences, the feature suggests relevant job openings to recruitment agencies and potential candidates to job giver companies. This feature streamlines the hiring process, increases the likelihood of successful matches, and reduces the time and effort spent on manual searches.
+This design challenge is divided into two parts:
 
-**Guidelines for Design:**
+1. Design a User Interface
+2. Showcase a Case study
 
-1. **Usability:**
-    - Keep the interface intuitive and user-friendly. Ensure that both job giver companies and recruitment agencies can easily access and understand the feature.
-    - Provide clear and concise instructions on how to use the Smart Match Recommendations feature.
-    - Include a robust search and filtering system that allows users to refine their preferences and criteria for job recommendations.
-    - Enable users to save or bookmark jobs and candidates for future reference.
+## Part I: Design a User Interface 
 
-2. **Visual Appeal:**
-    - Create a visually appealing design that aligns with JoBins' brand identity.
-    - Utilize a clean and modern user interface (UI) design, with a well-structured layout and consistent typography.
-    - Use appropriate color schemes that are visually pleasing and aid in highlighting important information or calls to action.
-    - Incorporate relevant and engaging visual elements, such as icons or illustrations, to enhance the overall aesthetic.
+Preferred tool: Figma
 
-3. **Seamless Interaction:**
-    - Ensure seamless interaction between job giver companies and recruitment agencies within the system.
-    - Provide real-time updates on new job openings or candidate recommendations, using notifications or alerts.
-    - Enable easy communication and collaboration between job giver companies and recruitment agencies, such as direct messaging or commenting on job listings.
-    - Allow users to provide feedback on the relevance and quality of the recommendations to improve future matches.
+## Submission Deadline: 7 July 2023 
 
-4. **Personalization:**
-    - Incorporate personalization features that tailor the recommendations based on the user's preferences, historical data, and behavior.
-    - Allow users to customize their search criteria, including job preferences, skills, location, and salary range.
-    - Provide options for users to refine their recommendations by adjusting the weighting of various factors (e.g., skills, experience, cultural fit).
-    - Implement machine learning techniques to continuously improve the accuracy and relevance of the recommendations over time.
+### **Task**
 
-5. **Performance and Scalability:**
-    - Design the feature to handle large amounts of data without compromising performance.
-    - Ensure scalability to accommodate the growing user base and increasing job listings.
-    - Optimize loading times and response rates to provide a seamless experience even during peak usage.
+Interview Scheduling and Management System 
 
-Remember, the design should focus on improving the user experience by providing relevant and personalized recommendations, fostering collaboration, and simplifying the hiring process for both job giver companies and recruitment agencies.
+### Context
 
-To facilitate the design process, it is recommended to establish a **Design System** that includes the following:
+Design an intuitive interface for interview scheduling and management for a recruitment company that simplifies the hiring process. The recruitment company needs a user-friendly platform that enables them to send interview invitations and allows applicants to easily view and respond to them. The goal is to streamline the interview process and enhance the overall experience for both the hiring manager and the applicants.
 
-- **Typography:** Define a set of typography styles for headings, body text, and other relevant text elements to maintain consistency across the user interface.
-- **Color Palette:** Establish a color palette that aligns with JoBins' brand identity and includes primary, secondary, and accent colors. Define the appropriate usage of colors for different interface elements.
-- **Icons and Illustrations:** Create a library of icons and illustrations that can be used consistently throughout the design to enhance visual communication.
-- **UI Components:** Develop a collection of reusable UI components (e.g., buttons, cards, forms) that follow consistent styles and interactions, ensuring efficiency and consistency in the design process.
+### 
 
-For design creation and collaboration, it is recommended to use **Figma**, a collaborative design tool. You can utilize the following Figma features:
+### Requirements 
 
-- **Design System Library:** Create a shared library within Figma to store all design system components, such as typography styles, colors, icons, and UI components. This ensures consistent use of design elements across different screens and promotes efficiency in
+1. Clear and User-Friendly Interface
 
-design iterations.
-- **Prototyping:** Utilize Figma's prototyping capabilities to create interactive prototypes that showcase the flow and functionality of the Smart Match Recommendations feature. Link relevant screens and define interactions to simulate the user experience.
-- **Variants:** Leverage Figma's variants feature to create different states or variations of UI components (e.g., hover, active, disabled) within the design system. This allows for easy customization and flexibility when designing different parts of the user interface.
+   Create an interface that is visually clear, intuitive, and easy to navigate for users. The design should prioritize usability and provide a seamless user experience.
 
-**Submission**
+2. Calendar View or Scheduling
 
-Once you have completed the task, please submit your profile information and the application form provided in the submission link.
+   Incorporate a calendar view or scheduling feature that displays available time slots for interviews. This feature should allow users to view and choose their preferred time slots conveniently.
 
-Good luck with the challenge!
+3. Automated Reminders and Notifications
+
+   Provide options for reminders and notifications to be sent to the users. This functionality will ensure that both parties are promptly informed about upcoming interviews, reducing the likelihood of missed appointments.
+
+4. Accessibility Considerations
+
+   Ensure the interface is accessible to users with different levels of technical proficiency. Consider accessibility guidelines, such as legible text, appropriate color contrast, and user-friendly interactions to make the interface inclusive for individuals with varying needs.
+
+5. **Design System** 
+   Create a comprehensive design system that establishes consistent visual and interaction patterns throughout the interface. This design system will play a crucial role in achieving a cohesive and scalable design approach.
+6. Justification 
+   Justify your design decisions and explain how your design solution simplifies the interview scheduling and management process, leading to a better user experience for both the recruitment manager and the applicants.  
+
+---
+
+## Part II: Showcase a Case Study 
+
+Submission Deadline: 7 July 2023 
+
+### Task
+
+Create a case study in which you were actively involved as a designer throughout the entire project, from its initiation to completion. Or you can submit one if you have already created one. If you have already crafted a case study that meets the requirements, you may choose to submit it for assessment. 
+
+## Submission Details
+
+Instructions on how to share the designs 
+
+Set up a folder on Google Drive and change its name to your full name. Include the following files on google drive:
+
+1. A Google document:
+   * Create a new Google document within the designated folder and include the Figma file link of your design. Adjust the sharing settings for the Figma file to "Anyone with the link" with the permission level set to "Can view." 
+
+   * Justify your design decisions and elaborate on how your design effectively addresses the identified pain points. Present your explanations and justifications within the Google document itself. 
+
+   * Provide a link to your website or design portfolio on platforms such as Dribbble, Behance, or any other design portfolio website. 
+
+2. Case study file
+   * Upload the case study in PDF format, or alternatively, provide a Behance link if the case study is available online. 
+
+3. Resume
+   * Upload a copy of your most recent resume as part of your submission.  
+     
+4. Design Portfolio
+   * Upload your design portfolio to the Google Docs folder. If your design portfolio is available on platforms like Dribbble, Behance, or any other design portfolio website, include the respective link in the Google Docs.
+
+`please submit your profile information and the application form provided in the submission link`
+
+`We want you to have as much freedom as you need. Don’t hesitate to try out interesting techniques and show your personality in your work. Good luck, and we look forward to seeing your thoughtful and user-centric interface design! _:)`
