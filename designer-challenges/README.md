@@ -40,8 +40,11 @@ Design an intuitive interface for interview scheduling and management for a recr
    Ensure the interface is accessible to users with different levels of technical proficiency. Consider accessibility guidelines, such as legible text, appropriate color contrast, and user-friendly interactions to make the interface inclusive for individuals with varying needs.
 
 5. **Design System** 
+
    Create a comprehensive design system that establishes consistent visual and interaction patterns throughout the interface. This design system will play a crucial role in achieving a cohesive and scalable design approach.
+
 6. Justification 
+
    Justify your design decisions and explain how your design solution simplifies the interview scheduling and management process, leading to a better user experience for both the recruitment manager and the applicants.  
 
 ---
