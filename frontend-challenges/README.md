@@ -1,4 +1,5 @@
 ## Frontend - Design to Code  (Vue/React)
+<mark>Design frameworks like ant design or MUI are not allowed</mark>
 
 ### Requirements
 
